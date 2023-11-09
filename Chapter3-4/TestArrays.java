@@ -23,6 +23,5 @@ class TestArrays {
             y = y + 1;
 
         }
-
     }
 }
